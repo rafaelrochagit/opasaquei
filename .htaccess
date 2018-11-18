@@ -1,0 +1,18 @@
+php_flag session.auto_start on
+#php_value session.save_path '/home/opasaquei/sessions'
+
+RewriteEngine On
+# Mude exemplo.com.br.br pelo seu domínio principal 
+RewriteCond %{HTTP_HOST} ^(www.)?opasaquei.com.br$ 
+# Mude 'subdiretorio' pelo diretório o qual o domínio principal usará
+RewriteCond %{REQUEST_URI} !^/site
+# Não mude as duas linhas a seguir 
+RewriteCond %{REQUEST_FILENAME} !-f 
+RewriteCond %{REQUEST_FILENAME} !-d 
+# Mude 'subdiretorio' pelo diretório o qual o domínio principal usará 
+RewriteRule ^(.*)$ /site/$1 
+# Mude de novo exemplo.com.br.br pelo seu domínio principal 
+RewriteCond %{HTTP_HOST} ^(www.)?opasaquei.com.br$ 
+# Mude 'subdiretorio' pelo diretório o qual o domínio principal usará 
+# seguido por uma barra / e o arquivo principal do seu site 
+RewriteRule ^(/)?$ site/index.php [L]
