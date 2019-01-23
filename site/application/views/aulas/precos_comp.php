@@ -279,7 +279,7 @@
 							<div class="scrollclass">
 								<h4 class="text-center">Pacote</h4>
 								<b>16 Aulas</b> <br><br>
-								<a><h5 class="text-center">16% de desconto</h5></a>
+								<a><h5 class="text-center">15% de desconto</h5></a>
 							</div>
 
 							<div class="overlay-background">
@@ -292,7 +292,7 @@
 							<div class="scrollclass">
 								<h4 class="text-center">Pacote</h4>
 								<b>17 Aulas</b> <br><br>
-								<a><h5 class="text-center">17% de desconto</h5></a>
+								<a><h5 class="text-center">15% de desconto</h5></a>
 							</div>
 
 							<div class="overlay-background">
@@ -305,7 +305,7 @@
 							<div class="scrollclass">
 								<h4 class="text-center">Pacote</h4>
 								<b>18 Aulas</b> <br><br>
-								<a><h5 class="text-center">18% de desconto</h5></a>
+								<a><h5 class="text-center">15% de desconto</h5></a>
 							</div>
 
 							<div class="overlay-background">
@@ -318,7 +318,7 @@
 							<div class="scrollclass">
 								<h4 class="text-center">Pacote</h4>
 								<b>19 Aulas</b> <br><br>
-								<a><h5 class="text-center">19% de desconto</h5></a>
+								<a><h5 class="text-center">15% de desconto</h5></a>
 							</div>
 
 							<div class="overlay-background">
@@ -331,7 +331,7 @@
 							<div class="scrollclass">
 								<h4 class="text-center">Pacote</h4>
 								<b>20 Aulas</b> <br><br>
-								<a><h5 class="text-center">20% de desconto</h5></a>
+								<a><h5 class="text-center">15% de desconto</h5></a>
 							</div>
 
 							<div class="overlay-background">
@@ -344,7 +344,7 @@
 							<div class="scrollclass">
 								<h4 class="text-center">Pacote</h4>
 								<b>21 Aulas</b> <br><br>
-								<a><h5 class="text-center">21% de desconto</h5></a>
+								<a><h5 class="text-center">15% de desconto</h5></a>
 							</div>
 
 							<div class="overlay-background">
@@ -357,7 +357,7 @@
 							<div class="scrollclass">
 								<h4 class="text-center">Pacote</h4>
 								<b>22 Aulas</b> <br><br>
-								<a><h5 class="text-center">22% de desconto</h5></a>
+								<a><h5 class="text-center">15% de desconto</h5></a>
 							</div>
 
 							<div class="overlay-background">
@@ -370,7 +370,7 @@
 							<div class="scrollclass">
 								<h4 class="text-center">Pacote</h4>
 								<b>23 Aulas</b> <br><br>
-								<a><h5 class="text-center">23% de desconto</h5></a>
+								<a><h5 class="text-center">15% de desconto</h5></a>
 							</div>
 
 							<div class="overlay-background">
@@ -383,7 +383,7 @@
 							<div class="scrollclass">
 								<h4 class="text-center">Pacote</h4>
 								<b>24 Aulas</b> <br><br>
-								<a><h5 class="text-center">24% de desconto</h5></a>
+								<a><h5 class="text-center">15% de desconto</h5></a>
 							</div>
 
 							<div class="overlay-background">
@@ -396,7 +396,7 @@
 							<div class="scrollclass">
 								<h4 class="text-center">Pacote</h4>
 								<b>25 Aulas</b> <br><br>
-								<a><h5 class="text-center">25% de desconto</h5></a>
+								<a><h5 class="text-center">15% de desconto</h5></a>
 							</div>
 
 							<div class="overlay-background">
@@ -409,7 +409,7 @@
 							<div class="scrollclass">
 								<h4 class="text-center">Pacote</h4>
 								<b>26 Aulas</b> <br><br>
-								<a><h5 class="text-center">26% de desconto</h5></a>
+								<a><h5 class="text-center">15% de desconto</h5></a>
 							</div>
 
 							<div class="overlay-background">
@@ -422,7 +422,7 @@
 							<div class="scrollclass">
 								<h4 class="text-center">Pacote</h4>
 								<b>27 Aulas</b> <br><br>
-								<a><h5 class="text-center">27% de desconto</h5></a>
+								<a><h5 class="text-center">15% de desconto</h5></a>
 							</div>
 
 							<div class="overlay-background">
@@ -436,7 +436,7 @@
 							<div class="scrollclass">
 								<h4 class="text-center">Pacote</h4>
 								<b>28 Aulas</b> <br><br>
-								<a><h5 class="text-center">28% de desconto</h5></a>
+								<a><h5 class="text-center">15% de desconto</h5></a>
 							</div>
 
 							<div class="overlay-background">
@@ -449,7 +449,7 @@
 							<div class="scrollclass">
 								<h4 class="text-center">Pacote</h4>
 								<b>29 Aulas</b> <br><br>
-								<a><h5 class="text-center">29% de desconto</h5></a>
+								<a><h5 class="text-center">15% de desconto</h5></a>
 							</div>
 
 							<div class="overlay-background">
@@ -462,7 +462,7 @@
 							<div class="scrollclass">
 								<h4 class="text-center">Pacote</h4>
 								<b>30 Aulas</b> <br><br>
-								<a><h5 class="text-center">30% de desconto</h5></a>
+								<a><h5 class="text-center">15% de desconto</h5></a>
 							</div>
 
 							<div class="overlay-background">
@@ -476,7 +476,7 @@
 							<div class="scrollclass">
 								<h4 class="text-center">Pacote</h4>
 								<b>+ de<br>30 Aulas</b> <br>
-								<a><h5 class="text-center">30% de desconto</h5></a>
+								<a><h5 class="text-center">15% de desconto</h5></a>
 							</div>
 
 							<div class="overlay-background">
@@ -489,7 +489,7 @@
 						<article class="preco btn btn-success btn-lg head-btn-oner">
 							<div class="scrollclass">
 								<h4 class="text-center">2 Aulas<br>Por Semana</h4>
-								<b>R$ 320,00/mês*</b><br>
+								<b>R$ 360,00/mês*</b><br>
 								<h5 class="text-center">Duração Aulas: 1h</h5>
 							</div>
 
@@ -504,7 +504,7 @@
 						<article class="preco btn btn-success btn-lg head-btn-oner">
 							<div class="scrollclass">
 								<h4 class="text-center">2 Aulas<br>Por Semana</h4>
-								<b>R$ 480,00/mês*</b><br>
+								<b>R$ 540,00/mês*</b><br>
 								<h5 class="text-center">Duração Aulas: 1h30</h5>
 							</div>
 
@@ -518,7 +518,7 @@
 						<article class="preco btn btn-success btn-lg head-btn-oner">
 							<div class="scrollclass">
 								<h4 class="text-center">3 Aulas<br>Por Semana</h4>
-								<b>R$ 480,00/mês*</b><br>
+								<b>R$ 540,00/mês*</b><br>
 								<h5 class="text-center">Duração Aulas: 1h</h5>
 							</div>
 
@@ -532,7 +532,7 @@
 						<article class="preco btn btn-success btn-lg head-btn-oner">
 							<div class="scrollclass">
 								<h4 class="text-center">3 Aulas<br>Por Semana</h4>
-								<b>R$ 720,00/mês*</b><br>
+								<b>R$ 810,00/mês*</b><br>
 								<h5 class="text-center">Duração Aulas: 1h30</h5>
 							</div>
 
@@ -546,7 +546,7 @@
 						<article class="preco btn btn-success btn-lg head-btn-oner">
 							<div class="scrollclass">
 								<h4 class="text-center">5 Aulas<br>Por Semana</h4>
-								<b>R$ 800,00/mês*</b><br>
+								<b>R$ 900,00/mês*</b><br>
 								<h5 class="text-center">Duração Aulas: 1h</h5>
 							</div>
 
@@ -560,7 +560,7 @@
 						<article class="preco btn btn-success btn-lg head-btn-oner">
 							<div class="scrollclass">
 								<h4 class="text-center">5 Aulas <br>Por Semana</h4>
-								<b>R$ 1200,00/mês*</b><br>
+								<b>R$ 1350,00/mês*</b><br>
 								<h5 class="text-center">Duração Aulas: 1h30</h5>
 							</div>
 
@@ -817,7 +817,7 @@
 						
 						<h5 style="color: #337ab7">* ACOMPANHAMENTO SEMANAL:
 							<br>  1. Os Valores são válidos para o mínimo de 3 meses de fidelidade.
-							<br>  2. Valor da hora/aula fica por <b style="color:#000">R$ 40,00</b>. Os Valores são calculados levando em consideração 4 semanas por mês.
+							<br>  2. Valor da hora/aula fica por <b style="color:#000">R$ 45,00</b>. Os Valores são calculados levando em consideração 4 semanas por mês.
 						</h5>
 						<h5 style="color: #9a2e2e">** Indicação consolidada é aquela na qual o indicado contrata pelo menos uma aula.</h5>
 				</div>

@@ -1,7 +1,7 @@
 <tr class="aula-linha remove-from-download">
 	<td>
 		<select class="form-control quantidade aula-select remove-from-download">
-			<?php for($i=1;$i<=30;$i++):?>
+			<?php for($i=1;$i<=60;$i++):?>
 				<option value="<?=$i?>"><?=$i?></option>
 			<?php endfor;?>
 		</select>

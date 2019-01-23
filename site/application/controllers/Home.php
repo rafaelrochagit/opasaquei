@@ -65,13 +65,11 @@ class Home extends Principal_Controller {
          */
 
         /*$content = $this->load->view('home/home_page', '', true);*/
-        
         redirect('aulas-particulares');
 
         return $content;
 
     }
-
 
 
     public function getMenuSelecionado() {
